@@ -30,6 +30,5 @@ public class TestServer {
             bossGroup.shutdownGracefully();
             workGroup.shutdownGracefully();
         }
-
     }
 }
