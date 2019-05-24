@@ -1,4 +1,4 @@
-package com.machi.nettystudy.netty.helloworld;
+package com.machi.nettystudy.netty.firstexample;
 
 import io.netty.buffer.ByteBuf;
 import io.netty.buffer.Unpooled;

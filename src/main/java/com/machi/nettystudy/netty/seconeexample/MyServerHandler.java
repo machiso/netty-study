@@ -1,4 +1,4 @@
-package com.machi.nettystudy.netty.socket;
+package com.machi.nettystudy.netty.seconeexample;
 
 import io.netty.channel.ChannelHandlerContext;
 import io.netty.channel.SimpleChannelInboundHandler;

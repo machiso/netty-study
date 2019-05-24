@@ -1,10 +1,9 @@
-package com.machi.nettystudy.netty.socket;
+package com.machi.nettystudy.netty.seconeexample;
 
 import io.netty.channel.ChannelHandlerContext;
 import io.netty.channel.SimpleChannelInboundHandler;
 
 import java.time.LocalDate;
-import java.util.Date;
 
 public class MyClientHandler extends SimpleChannelInboundHandler<String> {
     @Override
